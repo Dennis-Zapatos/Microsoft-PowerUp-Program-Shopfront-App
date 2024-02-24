@@ -1,1 +1,3 @@
-## Watch my preview of the App here: https://www.youtube.com/watch?v=RekXhuPTNuo
+# Watch my demo of the App here: https://www.youtube.com/watch?v=RekXhuPTNuo
+## Here is a preview:
+### 
